@@ -1,0 +1,15 @@
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\Service.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\Service.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\Model.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\Repository.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\Model.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\Repository.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\obj\Debug\Service.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\obj\Debug\Service.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\MongoDB.Driver.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\MongoDB.Bson.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\MongoDB.Driver.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\MongoDB.Driver.xml
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\MongoDB.Bson.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Service\bin\Debug\MongoDB.Bson.xml

@@ -1,0 +1,5 @@
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Model\bin\Debug\Model.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Model\bin\Debug\Model.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Model\obj\Debug\Model.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Model\obj\Debug\Model.pdb

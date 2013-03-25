@@ -1,0 +1,9 @@
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\bin\Debug\Presentation.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\bin\Debug\Model.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\bin\Debug\Service.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\bin\Debug\Model.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\bin\Debug\Service.pdb
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\obj\Debug\Presentation.dll
+C:\Users\Axil\Documents\Visual Studio 2010\Projects\ASPPatterns.Chap3.Layered\Presentation\obj\Debug\Presentation.pdb
